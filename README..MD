@@ -132,7 +132,8 @@
         ~~~
         $TTL 38400
 
-        @ IN SOA servidor01.escherichiacoli.es. correoadmin.escherichiacoli.es. (
+       # EJERCICIOS
+       @ IN SOA servidor01.escherichiacoli.es. correoadmin.escherichiacoli.es. (
                 2017041000;   //num serie
                 28800;        //refresco
                 3600;         //reintentos
@@ -361,4 +362,8 @@
   `sudo service apache2 restart`
 
 ## **4 Prueba del correcto funcionamiento**
-[![Prueba Video](https://img.youtube.com/vi/0hzODNjUlCM/0.jpg)](https://www.youtube.com/watch?v=0hzODNjUlCM)# EJERCICIOS
+[![Prueba Video](https://img.youtube.com/vi/0hzODNjUlCM/0.jpg)](https://www.youtube.com/watch?v=0hzODNjUlCM)
+
+ <p align="center"> <img src="your_relative_path_here" width="350"/> </p> 
+
+
