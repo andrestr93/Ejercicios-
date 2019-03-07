@@ -366,7 +366,9 @@
 
 
 
- 5 SERVIDOR DNS 
+
+
+## 5 SERVIDOR DNS 
     <img src="https://andrestr93.tumblr.com/image/183294661512"/>
     
     
