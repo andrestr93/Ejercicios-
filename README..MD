@@ -370,7 +370,8 @@
 
 ## 5 SERVIDOR DNS 
 
+
+    [![Prueba Video](https://66.media.tumblr.com/a8789c0f04e5e97ebb76cd39df298df4/tumblr_po0dkyHVvy1y87vfmo1_540.jpg)](https://66.media.tumblr.com/a8789c0f04e5e97ebb76cd39df298df4/tumblr_po0dkyHVvy1y87vfmo1_540.jpg)
     
-    <img src="http://lopezcorrea.com/14b/images/E.Coli.jpg"/>
      
 
