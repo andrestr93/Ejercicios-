@@ -371,7 +371,7 @@
 ## 5 SERVIDOR DNS 
 
 
-    [![Prueba Video](https://andrestr93.tumblr.com/image/183294661512)](https://andrestr93.tumblr.com/image/183294661512)
+    [![SERVIDOR DNS ](https://66.media.tumblr.com/a8789c0f04e5e97ebb76cd39df298df4/tumblr_po0dkyHVvy1y87vfmo1_640.jpg)
     
      
 
