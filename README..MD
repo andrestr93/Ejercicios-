@@ -367,8 +367,6 @@
 
 
 ## 5 SERVIDOR DNS 
- <body>
-   <title>SERVIDOR</title>
     <img src="https://andrestr93.tumblr.com/image/183294661512"/>
-     </body>
+     
 
