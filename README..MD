@@ -367,6 +367,6 @@
 
 
 ## 5 SERVIDOR DNS 
-    <img src="https://andrestr93.tumblr.com/image/183294661512"/>
+    <img src="https://66.media.tumblr.com/a8789c0f04e5e97ebb76cd39df298df4/tumblr_po0dkyHVvy1y87vfmo1_540.jpg"/>
      
 
