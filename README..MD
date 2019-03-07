@@ -364,15 +364,7 @@
 ## **4 Prueba del correcto funcionamiento**
 [![Prueba Video](https://img.youtube.com/vi/0hzODNjUlCM/0.jpg)](https://www.youtube.com/watch?v=0hzODNjUlCM)
 
-
-     ~~~
-          <html>
-                  <head>
-                          <title>escherichiacoli</title>
-                  </head>
-                  <body>
-                          <img src="http://lopezcorrea.com/14b/images/E.Coli.jpg"/>
-                  </body>
-          </html>
-          ~~~
+## **5 SERVIDOR DNS 
+    <img src="http://lopezcorrea.com/14b/images/E.Coli.jpg"/>
+     
 
