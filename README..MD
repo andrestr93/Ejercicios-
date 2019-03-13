@@ -362,13 +362,17 @@
   `sudo service apache2 restart`
 
 ## **4 Prueba del correcto funcionamiento**
+## BACTERIA
 https://www.tec.ac.cr/hoyeneltec/sites/default/files/styles/node/public/media/img/main/listeria_.jpeg
+## MOSQUITO TIGRE
+https://fotos00.levante-emv.com/mmp/2018/07/12/328x206/mosquito-tigre.jpg
 
 
 
 
 
 ## 5 SERVIDOR DNS 
+
 
 
   
