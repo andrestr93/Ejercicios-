@@ -372,8 +372,9 @@ https://fotos00.levante-emv.com/mmp/2018/07/12/328x206/mosquito-tigre.jpg
 
 
 ## 5 SERVIDOR DNS 
+![Texto Alt](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Signetics_NE555N.JPG/245px "Título opcional")
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Signetics_NE555N.JPG/245px->
+<img src="->
 
   
     
