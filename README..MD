@@ -362,7 +362,7 @@
   `sudo service apache2 restart`
 
 ## **4 Prueba del correcto funcionamiento**
-[![Prueba Video](https://img.youtube.com/vi/0hzODNjUlCM/0.jpg)](https://www.youtube.com/watch?v=0hzODNjUlCM)
+https://www.google.es/search?q=bacteria&hl=es&gl=es&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiCxffig__gAhVS_KQKHZgjAIcQ_AUIDigB#imgrc=Uloub3VUVbNd0M:
 
 
 
@@ -371,7 +371,7 @@
 ## 5 SERVIDOR DNS 
 
 
-    [![SERVIDOR DNS ](https://66.media.tumblr.com/a8789c0f04e5e97ebb76cd39df298df4/tumblr_po0dkyHVvy1y87vfmo1_640.jpg)
+  
     
      
 
