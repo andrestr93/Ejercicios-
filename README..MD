@@ -362,7 +362,7 @@
   `sudo service apache2 restart`
 
 ## **4 Prueba del correcto funcionamiento**
-https://www.google.es/search?q=bacteria&hl=es&gl=es&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiCxffig__gAhVS_KQKHZgjAIcQ_AUIDigB#imgrc=Uloub3VUVbNd0M:
+https://www.tec.ac.cr/hoyeneltec/sites/default/files/styles/node/public/media/img/main/listeria_.jpeg
 
 
 
