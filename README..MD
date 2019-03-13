@@ -362,10 +362,7 @@
   `sudo service apache2 restart`
 
 ## **4 Prueba del correcto funcionamiento**
-## BACTERIA
-https://img.youtube.com/vi/0hzODNjUlCM/0.jpg)](https://www.youtube.com/watch?v=0hzODNjUlCM
-## MOSQUITO TIGRE
-https://fotos00.levante-emv.com/mmp/2018/07/12/328x206/mosquito-tigre.jpg
+[![Prueba Video](https://img.youtube.com/vi/0hzODNjUlCM/0.jpg)](https://https://youtu.be/mfjlHcomZa4)
 
 
 
