@@ -361,17 +361,11 @@
   `sudo /etc/init.d/apache2 restart`  
   `sudo service apache2 restart`
 
-## **4 Prueba del correcto funcionamiento**
-[![Prueba Video](https://img.youtube.com/vi/0hzODNjUlCM/0.jpg)](https://https://youtu.be/mfjlHcomZa4)
+
+4. CAPTURAS DE PANTALLA 
 
 
 
-
-
-## 5 SERVIDOR DNS 
-![Texto Alt](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Signetics_NE555N.JPG/245px "Título opcional")
-
-<img src="->
 
   
     
