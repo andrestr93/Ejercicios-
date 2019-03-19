@@ -364,8 +364,11 @@
 
 4. CAPTURAS DE PANTALLA 
 
-[RAID 0](https://66.media.tumblr.com/a8789c0f04e5e97ebb76cd39df298df4/tumblr_po0dkyHVvy1y87vfmo1_540.jpg)
+
 ![RAID 0](https://66.media.tumblr.com/a8789c0f04e5e97ebb76cd39df298df4/tumblr_po0dkyHVvy1y87vfmo1_540.jpg)
+![GATO.COM](https://66.media.tumblr.com/588df96c365f6d1597554b71bfa09fd8/tumblr_pom4zjHqSY1y87vfmo4_1280.jpg)
+
+
 
 
   
