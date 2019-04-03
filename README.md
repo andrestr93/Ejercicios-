@@ -244,12 +244,13 @@ Añadir al fichero /etc/trabajos (no existe hay que crearlo) el código del trab
 **3. CLUSTER**
 ![](https://github.com/xus17/cluster-fstab/raw/master/Captura%20de%20pantalla%20(226).png)
 ![](https://github.com/xus17/cluster-fstab/raw/master/Captura%20de%20pantalla(199).jpeg)
+**COMANDOS DE COMPROBACIÓN Y RECONOCIMENTO
+cat clusterhosts
+recon -v clusterhosts
 ![](https://github.com/xus17/cluster-fstab/raw/master/Cpatura%20de%20pantalla(200).jpeg)
 ![](https://github.com/xus17/cluster-fstab/raw/master/Captura%20de%20pantalla(201).JPG)
 
-COMANDOS DE COMPROBACIÓN Y RECONOCIMENTO
-cat clusterhosts
-recon -v clusterhosts
+
 
 
 
