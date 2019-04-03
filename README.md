@@ -242,8 +242,8 @@ El trabajo que se debe ejecutar es:
 Añadir al fichero /etc/trabajos (no existe hay que crearlo) el código del trabajo y la hora de ejecución.
 
 **3. CLUSTER**
-(https://github.com/xus17/cluster-fstab/raw/master/Captura%20de%20pantalla%20(226).png)
-(https://github.com/xus17/cluster-fstab/raw/master/Captura%20de%20pantalla(199).jpeg)
-(https://github.com/xus17/cluster-fstab/raw/master/Cpatura%20de%20pantalla(200).jpeg)
-(https://github.com/xus17/cluster-fstab/raw/master/Captura%20de%20pantalla(201).JPG)
+![](https://github.com/xus17/cluster-fstab/raw/master/Captura%20de%20pantalla%20(226).png)
+![](https://github.com/xus17/cluster-fstab/raw/master/Captura%20de%20pantalla(199).jpeg)
+![](https://github.com/xus17/cluster-fstab/raw/master/Cpatura%20de%20pantalla(200).jpeg)
+![](https://github.com/xus17/cluster-fstab/raw/master/Captura%20de%20pantalla(201).JPG)
 
