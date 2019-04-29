@@ -1,6 +1,4 @@
 Primeramente se debera descargar el "dialog", de esta forma:
-# apt-get install dialog
-Luego el script es este:
 #!/bin/sh
 # Este script elimina un archivo o directorio pasado como parámetro y le pregunta al usuario si está seguro de llevar a cabo tal acción.
 dialog --yesno "¿Está seguro que desea eliminar el archivo o directorio?" 0 0;\
