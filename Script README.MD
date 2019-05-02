@@ -66,7 +66,7 @@ script, el parámetro posicional o "$1" será "ps", de modo que el script se eje
 
 equivale a haber escrito en la consola "man ps" sin haber utilizado este script.
 
-# Script 3º
+
 
 # Nos pide la edad y nos dice si es mayor de edad o no .
 
@@ -83,8 +83,8 @@ echo "Eres mayor de edad"
 else
 echo "Eres mayor de edad"
 
-# Script 4º 
-#Script que reciba un nombre de fichero, verifique que existe y que es un fichero comun (lectura-escritura) lo convierta en ejecutable para el usuario y el grupo y muestre el estado final de los permisos.
+
+# Script que reciba un nombre de fichero, verifique que existe y que es un fichero comun (lectura-escritura) lo convierta en ejecutable para el usuario y el grupo y muestre el estado final de los permisos.
 
     if [ -r $1 ];then
     echo " Tiene permisos de Lectura"
@@ -107,9 +107,9 @@ else
 echo "El fichero no existe "
 fi
 
-#Script 5º
 
-#Script que nos diga al pulsar una tecla, si es letra, numero o caracter especial
+
+# Script que nos diga al pulsar una tecla, si es letra, numero o caracter especial
 
 
 read -n 1 tecla
@@ -120,9 +120,9 @@ case $tecla in
 ;;
 *) echo "Ha introducido un caracter especial"
 ;;
-#Script 6º
 
-#realizar un scrip que reciba varios parametros y nos diga cuantos de esos parametros son de directorios y cuantos son archivos. $# contador que indica cuantos parametros se pasan.
+
+# realizar un scrip que reciba varios parametros y nos diga cuantos de esos parametros son de directorios y cuantos son archivos. $# contador que indica cuantos parametros se pasan.
 
 cont=0
 contf=0
@@ -139,7 +139,7 @@ done
 echo "Ha introducido $cont directorios y $contf ficheros."
 echo "Se han introducido $# parametros"
 
-#Script 6º 
+
 
 # Mostramos menu, con productos para vender, luego nos pide que introduzcamos la opcion. luego mensaje que indica que introduzca moneda. Si ponemos precio exacto nos da mensaje, "Gracias buen provecho", si ponemos menos, nos diga falta.
 Si poner mas valor, nos indique el cambio con mensaje.
@@ -179,8 +179,8 @@ else
 echo "Gracias por su compra. Buen provecho"
 fi
 
-#Script 7º 
-#Realizar un script que pida introducir la ruta de un directorio por teclado (Hay que validar que la variable introducida sea un directorio) nos diga cuantos archivos y cuantos directorios hay dentro de ese directorio.
+
+# Realizar un script que pida introducir la ruta de un directorio por teclado (Hay que validar que la variable introducida sea un directorio) nos diga cuantos archivos y cuantos directorios hay dentro de ese directorio.
 
 read -p "Introduzca la ruta de un directorio :" dir
 until [ -d $dir ]; do
@@ -198,9 +198,9 @@ contf=0
 echo "Ha introducido $cont directorios y $contf ficheros."
 echo "Se han introducido $# parametros"
 
-#Script 8º
 
-#Realiza un script que introduzca numero por parametro y muestre tabla de multiplicar
+
+# Realiza un script que introduzca numero por parametro y muestre tabla de multiplicar
 
 echo " la tabla de multiplicar de $1 es: "
 numerador=1
