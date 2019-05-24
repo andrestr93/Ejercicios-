@@ -14,6 +14,9 @@ ESTABLECIMIENTO DE HORARIO DE USUARIOS
 ![](https://66.media.tumblr.com/1ad13ce8cad3d51c477f1b1d5e310fdd/tumblr_ps04ny1IKK1y87vfmo7_1280.jpg)
 
 
+CONFIGURACION DHCP 
+
+
 
 
 
