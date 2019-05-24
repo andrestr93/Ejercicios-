@@ -1,1 +1,5 @@
-![chop155.org](https://66.media.tumblr.com/7b73d76ffabf93a1255b68c20cda8951/tumblr_pom5d8rcQo1y87vfmo1_540.jpg)
+INSTALACIÓN ACTIVE DIRECTORY 
+
+(https://66.media.tumblr.com/a7e88bbc39245c99e1387a651ae3bf29/tumblr_ps04mox7gN1y87vfmo1_1280.jpg)
+
+
