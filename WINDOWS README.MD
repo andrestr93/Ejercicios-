@@ -15,6 +15,20 @@ ESTABLECIMIENTO DE HORARIO DE USUARIOS
 
 
 CONFIGURACION DHCP 
+![](https://66.media.tumblr.com/156e28527f838c0349d2550825107260/tumblr_ps05k7MfFp1y87vfmo1_1280.jpg)
+![](https://66.media.tumblr.com/c439fa589443d4c927f90b0163732d8f/tumblr_ps05k7MfFp1y87vfmo2_1280.jpg)
+![](https://66.media.tumblr.com/ea3835b3405190aa9282078d4c53cb02/tumblr_ps05k7MfFp1y87vfmo3_1280.jpg)
+![](https://66.media.tumblr.com/16196bab53d6d0961f504c0ee5d104dc/tumblr_ps05k7MfFp1y87vfmo4_1280.jpg)
+![](https://66.media.tumblr.com/f18b8b192220564843e70de91d38595e/tumblr_ps05k7MfFp1y87vfmo5_1280.jpg)
+![](https://66.media.tumblr.com/c3fea8704732f6234b22163963028700/tumblr_ps05k7MfFp1y87vfmo6_1280.jpg)
+![](https://66.media.tumblr.com/7feed64d92141fac8af671814a8754f6/tumblr_ps05k7MfFp1y87vfmo7_1280.jpg)
+
+
+
+
+
+
+
 
 
 
